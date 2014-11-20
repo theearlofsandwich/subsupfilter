@@ -1,0 +1,7 @@
+name = Sub Sup filter
+description = "Filter certain words with sub and sup tags."
+core = 7.x
+files[] = subsupfilter.module
+
+project = "subsupfilter"
+
